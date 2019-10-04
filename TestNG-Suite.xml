@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Sample suite">
+  <test name="FirstTest">
+    <classes>
+      <class name="FirstTest"></class>
+    </classes>
+  </test> <!-- Default test -->
+
+
+<test name="SecoandTest">
+    <classes>
+      <class name="SecoandTest"></class>
+    </classes>
+  </test> <!-- Default test -->
+
+
+
+
+</suite> <!-- Default suite -->
+            

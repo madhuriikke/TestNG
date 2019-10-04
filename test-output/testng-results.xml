@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[CreateAccount]]>
+    </line>
+    <line>
+      <![CDATA[DeleteAcaunnt]]>
+    </line>
+    <line>
+      <![CDATA[EditAccount]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101" started-at="2019-06-26T08:29:48Z" finished-at="2019-06-26T08:29:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101" started-at="2019-06-26T08:29:48Z" finished-at="2019-06-26T08:29:48Z">
+      <class name="XXLT.SampleDemo">
+        <test-method status="PASS" signature="CreatAccount()[pri:1, instance:XXLT.SampleDemo@544fe44c]" name="CreatAccount" duration-ms="22" started-at="2019-06-26T08:29:48Z" finished-at="2019-06-26T08:29:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateAccount]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreatAccount -->
+        <test-method status="PASS" signature="DeleteAcaunnt()[pri:2, instance:XXLT.SampleDemo@544fe44c]" name="DeleteAcaunnt" duration-ms="2" started-at="2019-06-26T08:29:48Z" finished-at="2019-06-26T08:29:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[DeleteAcaunnt]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DeleteAcaunnt -->
+        <test-method status="PASS" signature="EditAccount()[pri:2, instance:XXLT.SampleDemo@544fe44c]" name="EditAccount" duration-ms="2" started-at="2019-06-26T08:29:48Z" finished-at="2019-06-26T08:29:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[EditAccount]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EditAccount -->
+      </class> <!-- XXLT.SampleDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
